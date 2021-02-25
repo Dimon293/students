@@ -1,0 +1,173 @@
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\Students.exe.config
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\Students.exe
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\Students.pdb
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\EntityFramework.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Data.SQLite.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Web.DataVisualization.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\EntityFramework.xml
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Data.SQLite.xml
+C:\Users\grimer\Downloads\Students\Students\Students\bin\Release\System.Data.SQLite.dll.config
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.FormMain.resources
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.FormChartData.resources
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.FormEnterDate.resources
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.Login.resources
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.Properties.Resources.resources
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.exe
+C:\Users\grimer\Downloads\Students\Students\Students\obj\Release\Students.pdb
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.exe.config
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.exe
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.pdb
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Web.DataVisualization.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.xml
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.xml
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.dll.config
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormMain.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormChartData.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormEnterDate.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.Properties.Resources.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.exe
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.pdb
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.User.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAdmin.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtUser.resources
+C:\Users\grimer\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmInputBox.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\Students.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Web.DataVisualization.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtUser.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAdmin.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmInputBox.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormMain.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormChartData.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.FormEnterDate.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.User.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtGroupSubject.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtStudent.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtSemesttSubjectsControl.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmStudentdAddMark.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmAddEdtMark.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Students\Students\obj\Release\Students.fmViewMark.resources
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\Students.exe.config
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.exe
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.pdb
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\Students.exe
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\Students.pdb
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\EntityFramework.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Data.SQLite.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Web.DataVisualization.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\EntityFramework.xml
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dimka\Desktop\Students\Students\bin\Release\System.Data.SQLite.xml
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAddEdtGroupSubject.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAddEdtMark.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAddEdtSemesttSubjectsControl.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAddEdtStudent.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAddEdtUser.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmAdmin.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmInputBox.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmStudentdAddMark.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.fmViewMark.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.Properties.Resources.resources
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+C:\Users\Dimka\Desktop\Students\Students\obj\Release\Students.UserAdmin.resources
+D:\Students\Students\bin\Release\Students.exe.config
+D:\Students\Students\obj\Release\Students.exe
+D:\Students\Students\obj\Release\Students.pdb
+D:\Students\Students\bin\Release\Students.exe
+D:\Students\Students\bin\Release\Students.pdb
+D:\Students\Students\bin\Release\EntityFramework.dll
+D:\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+D:\Students\Students\bin\Release\System.Data.SQLite.dll
+D:\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+D:\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+D:\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+D:\Students\Students\bin\Release\System.Web.DataVisualization.dll
+D:\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+D:\Students\Students\bin\Release\EntityFramework.xml
+D:\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+D:\Students\Students\bin\Release\System.Data.SQLite.xml
+D:\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+D:\Students\Students\obj\Release\Students.fmAddEdtGroupSubject.resources
+D:\Students\Students\obj\Release\Students.fmAddEdtMark.resources
+D:\Students\Students\obj\Release\Students.fmAddEdtSemestrSubjectsControl.resources
+D:\Students\Students\obj\Release\Students.fmAddEdtStudent.resources
+D:\Students\Students\obj\Release\Students.fmAddEdtUser.resources
+D:\Students\Students\obj\Release\Students.fmAdmin.resources
+D:\Students\Students\obj\Release\Students.fmInputBox.resources
+D:\Students\Students\obj\Release\Students.fmStudentAddMark.resources
+D:\Students\Students\obj\Release\Students.fmViewMark.resources
+D:\Students\Students\obj\Release\Students.UserAdmin.resources
+D:\Students\Students\obj\Release\Students.Properties.Resources.resources
+D:\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+H:\Students\Students\bin\Release\Students.exe.config
+H:\Students\Students\bin\Release\Students.exe
+H:\Students\Students\bin\Release\Students.pdb
+H:\Students\Students\bin\Release\EntityFramework.dll
+H:\Students\Students\bin\Release\EntityFramework.SqlServer.dll
+H:\Students\Students\bin\Release\System.Data.SQLite.dll
+H:\Students\Students\bin\Release\System.Data.SQLite.EF6.dll
+H:\Students\Students\bin\Release\System.Data.SQLite.Linq.dll
+H:\Students\Students\bin\Release\System.Web.DataVisualization.Design.dll
+H:\Students\Students\bin\Release\System.Web.DataVisualization.dll
+H:\Students\Students\bin\Release\System.Windows.Forms.DataVisualization.Design.dll
+H:\Students\Students\bin\Release\EntityFramework.xml
+H:\Students\Students\bin\Release\EntityFramework.SqlServer.xml
+H:\Students\Students\bin\Release\System.Data.SQLite.xml
+H:\Students\Students\bin\Release\System.Data.SQLite.dll.config
+H:\Students\Students\obj\Release\Students.csprojResolveAssemblyReference.cache
+H:\Students\Students\obj\Release\Students.fmAddEdtGroupSubject.resources
+H:\Students\Students\obj\Release\Students.fmAddEdtMark.resources
+H:\Students\Students\obj\Release\Students.fmAddEdtSemestrSubjectsControl.resources
+H:\Students\Students\obj\Release\Students.fmAddEdtStudent.resources
+H:\Students\Students\obj\Release\Students.fmAddEdtUser.resources
+H:\Students\Students\obj\Release\Students.fmAdmin.resources
+H:\Students\Students\obj\Release\Students.fmInputBox.resources
+H:\Students\Students\obj\Release\Students.fmStudentAddMark.resources
+H:\Students\Students\obj\Release\Students.fmViewMark.resources
+H:\Students\Students\obj\Release\Students.UserAdmin.resources
+H:\Students\Students\obj\Release\Students.Properties.Resources.resources
+H:\Students\Students\obj\Release\Students.csproj.GenerateResource.Cache
+H:\Students\Students\obj\Release\Students.exe
+H:\Students\Students\obj\Release\Students.pdb
+D:\Students\Students\bin\Release\System.Data.SQLite.dll.config

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Students.User">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAQAQAAgBAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.UserAdmin">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.UserTeacher">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.UserGuest">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.Login">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAABAACACAAAACABIBAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.fmAdmin">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <Members>
+      <Field Name="btAddChairs" Hidden="true" />
+      <Method Name="btAddChairs_Click" Hidden="true" />
+      <Field Name="btAddControl" Hidden="true" />
+      <Method Name="btAddControl_Click" Hidden="true" />
+      <Field Name="btAddFaculties" Hidden="true" />
+      <Method Name="btAddFaculties_Click" Hidden="true" />
+      <Field Name="btAddGroups" Hidden="true" />
+      <Method Name="btAddGroups_Click" Hidden="true" />
+      <Field Name="btAddsemestr" Hidden="true" />
+      <Method Name="btAddsemestr_Click" Hidden="true" />
+      <Field Name="btAddSemestrSubject" Hidden="true" />
+      <Method Name="btAddSemestrSubject_Click" Hidden="true" />
+      <Field Name="btAddSemesttSubjectsControl" Hidden="true" />
+      <Method Name="btAddSemesttSubjectsControl_Click" Hidden="true" />
+      <Field Name="btAddSpecialties" Hidden="true" />
+      <Method Name="btAddSpecialties_Click" Hidden="true" />
+      <Field Name="btAddStudents" Hidden="true" />
+      <Method Name="btAddStudents_Click" Hidden="true" />
+      <Field Name="btAddSubject" Hidden="true" />
+      <Method Name="btAddSubject_Click" Hidden="true" />
+      <Field Name="btAddUser" Hidden="true" />
+      <Method Name="btAddUser_Click" Hidden="true" />
+      <Field Name="btDelChairs" Hidden="true" />
+      <Method Name="btDelChairs_Click" Hidden="true" />
+      <Field Name="btDelControl" Hidden="true" />
+      <Method Name="btDelControl_Click" Hidden="true" />
+      <Field Name="btDelFaculties" Hidden="true" />
+      <Method Name="btDelFaculties_Click" Hidden="true" />
+      <Field Name="btDelGroups" Hidden="true" />
+      <Method Name="btDelGroups_Click" Hidden="true" />
+      <Field Name="btDelsemestr" Hidden="true" />
+      <Method Name="btDelsemestr_Click" Hidden="true" />
+      <Field Name="btDelSemestrSubject" Hidden="true" />
+      <Method Name="btDelSemestrSubject_Click" Hidden="true" />
+      <Field Name="btDelSemesttSubjectsControl" Hidden="true" />
+      <Method Name="btDelSemesttSubjectsControl_Click" Hidden="true" />
+      <Field Name="btDelSpecialties" Hidden="true" />
+      <Method Name="btDelSpecialties_Click" Hidden="true" />
+      <Field Name="btDelStudents" Hidden="true" />
+      <Method Name="btDelStudents_Click" Hidden="true" />
+      <Field Name="btDelSubject" Hidden="true" />
+      <Method Name="btDelSubject_Click" Hidden="true" />
+      <Field Name="btDelUser" Hidden="true" />
+      <Method Name="btDelUser_Click" Hidden="true" />
+      <Field Name="btEdtChairs" Hidden="true" />
+      <Method Name="btEdtChairs_Click" Hidden="true" />
+      <Field Name="btEdtControl" Hidden="true" />
+      <Method Name="btEdtControl_Click" Hidden="true" />
+      <Field Name="btEdtFaculties" Hidden="true" />
+      <Method Name="btEdtFaculties_Click" Hidden="true" />
+      <Field Name="btEdtGroups" Hidden="true" />
+      <Method Name="btEdtGroups_Click" Hidden="true" />
+      <Field Name="btEdtsemestr" Hidden="true" />
+      <Method Name="btEdtsemestr_Click" Hidden="true" />
+      <Field Name="btEdtSemestrSubject" Hidden="true" />
+      <Method Name="btEdtSemestrSubject_Click" Hidden="true" />
+      <Field Name="btEdtSemesttSubjectsControl" Hidden="true" />
+      <Method Name="btEdtSemesttSubjectsControl_Click" Hidden="true" />
+      <Field Name="btEdtSpecialties" Hidden="true" />
+      <Method Name="btEdtSpecialties_Click" Hidden="true" />
+      <Field Name="btEdtStudents" Hidden="true" />
+      <Method Name="btEdtStudents_Click" Hidden="true" />
+      <Field Name="btedtSubject" Hidden="true" />
+      <Method Name="btedtSubject_Click" Hidden="true" />
+      <Field Name="btEdtUser" Hidden="true" />
+      <Method Name="btEdtUser_Click" Hidden="true" />
+      <Field Name="comboBoxChairs" Hidden="true" />
+      <Method Name="comboBoxChairs_SelectedIndexChanged" Hidden="true" />
+      <Field Name="comboBoxFaculties" Hidden="true" />
+      <Method Name="comboBoxFaculties_SelectedIndexChanged" Hidden="true" />
+      <Field Name="comboBoxSpecialties" Hidden="true" />
+      <Method Name="comboBoxSpecialties_SelectedIndexChanged" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgvChairs" Hidden="true" />
+      <Method Name="dgvChairs_CellClick" Hidden="true" />
+      <Method Name="dgvChairs_DoubleClick" Hidden="true" />
+      <Field Name="dgvControl" Hidden="true" />
+      <Method Name="dgvControl_Click" Hidden="true" />
+      <Field Name="dgvControls" Hidden="true" />
+      <Method Name="dgvControls_DoubleClick" Hidden="true" />
+      <Field Name="dgvFaculties" Hidden="true" />
+      <Method Name="dgvFaculties_CellClick" Hidden="true" />
+      <Method Name="dgvFaculties_DoubleClick" Hidden="true" />
+      <Field Name="dgvGroupPr" Hidden="true" />
+      <Method Name="dgvGroupPr_CellClick" Hidden="true" />
+      <Field Name="dgvGroups" Hidden="true" />
+      <Method Name="dgvGroups_Click" Hidden="true" />
+      <Method Name="dgvGroups_DoubleClick" Hidden="true" />
+      <Field Name="dgvSemestr" Hidden="true" />
+      <Method Name="dgvSemestr_DoubleClick" Hidden="true" />
+      <Field Name="dgvSemestrSubject" Hidden="true" />
+      <Method Name="dgvSemestrSubject_Click" Hidden="true" />
+      <Method Name="dgvSemestrSubject_DoubleClick" Hidden="true" />
+      <Field Name="dgvSemesttSubjectsControl" Hidden="true" />
+      <Method Name="dgvSemesttSubjectsControl_DoubleClick" Hidden="true" />
+      <Field Name="dgvSpecialties" Hidden="true" />
+      <Method Name="dgvSpecialties_DoubleClick" Hidden="true" />
+      <Field Name="dgvStudents" Hidden="true" />
+      <Method Name="dgvStudents_DoubleClick" Hidden="true" />
+      <Field Name="dgvSubjects" Hidden="true" />
+      <Method Name="dgvSubjects_DoubleClick" Hidden="true" />
+      <Field Name="dgvUser" Hidden="true" />
+      <Method Name="dgvUser_DoubleClick" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="fmAdmin" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="listChairs" Hidden="true" />
+      <Field Name="listFaculties" Hidden="true" />
+      <Field Name="listGroups" Hidden="true" />
+      <Field Name="listSpecialties" Hidden="true" />
+      <Field Name="splitContainer1" Hidden="true" />
+      <Field Name="splitContainer10" Hidden="true" />
+      <Field Name="splitContainer11" Hidden="true" />
+      <Field Name="splitContainer12" Hidden="true" />
+      <Field Name="splitContainer13" Hidden="true" />
+      <Field Name="splitContainer14" Hidden="true" />
+      <Field Name="splitContainer15" Hidden="true" />
+      <Field Name="splitContainer16" Hidden="true" />
+      <Field Name="splitContainer17" Hidden="true" />
+      <Field Name="splitContainer2" Hidden="true" />
+      <Field Name="splitContainer3" Hidden="true" />
+      <Field Name="splitContainer4" Hidden="true" />
+      <Field Name="splitContainer5" Hidden="true" />
+      <Field Name="splitContainer6" Hidden="true" />
+      <Field Name="splitContainer7" Hidden="true" />
+      <Field Name="splitContainer8" Hidden="true" />
+      <Field Name="splitContainer9" Hidden="true" />
+      <Field Name="statements" Hidden="true" />
+      <Field Name="tbControl" Hidden="true" />
+      <Field Name="tbGroupStudents" Hidden="true" />
+      <Field Name="tbGroupSubject" Hidden="true" />
+      <Field Name="tbSemestr" Hidden="true" />
+      <Field Name="tbSettings" Hidden="true" />
+      <Field Name="tbSubject" Hidden="true" />
+      <Field Name="tbUser" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>wzwHqKOmAWqGGrNJFCWYTvIfwyKLayGVHQhTmvxvEkI=</HashCode>
+      <FileName>fmAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students.DBStatements">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAggABAAAAEAABAIAAAQAAgAREAAEECBAAQAEAQA=</HashCode>
+      <FileName>DBStatements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
